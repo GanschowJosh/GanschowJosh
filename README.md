@@ -14,9 +14,9 @@ Hi, I'm Joshua, a mathematician and developer studying at Dakota State Universit
 
 Explore some of my notable projects here:
 
-- **[Project 1](https://github.com/GanschowJosh/Steiner-Triple-Systems-Research))**: Combinatorics/Graph Theory research into the structure and properties of Steiner Triple Systems.  
-- **[Project 2](https://github.com/GanschowJosh/PrimeGridLabeling)**: Graph Theory research into prime labeling of graphs.
-- **[Project 3](https://github.com/GanschowJosh/jgansc.how)**: Personal portfolio website, showcasing projects and mathematical tools.
+- **[Steiner Triple Systems Research](https://github.com/GanschowJosh/Steiner-Triple-Systems-Research)**: Combinatorics/Graph Theory research into the structure and properties of Steiner Triple Systems.  
+- **[Prime Labeling Research](https://github.com/GanschowJosh/PrimeGridLabeling)**: Graph Theory research into prime labeling of graphs.
+- **[Portfolio Website](https://github.com/GanschowJosh/jgansc.how)**: Personal portfolio website, showcasing projects and mathematical tools.
 
 For more, check out my [repositories](https://github.com/GanschowJosh?tab=repositories).
 
