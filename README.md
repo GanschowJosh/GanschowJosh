@@ -3,14 +3,14 @@
 Hi, I'm Joshua, a mathematician and developer studying at Dakota State University. I am passionate about competitive programming and math research, check out my projects related to these topics below!
 ---
 
-## 🚀 Skills & Interests
+## Skills & Interests
 
 - **Languages**: Python, C/C++, C#, JavaScript
 - **Interests**: Combinatorics, Graph Theory, Game Theory, Competitive Programming
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 Explore some of my notable projects here:
 
@@ -22,7 +22,7 @@ For more, check out my [repositories](https://github.com/GanschowJosh?tab=reposi
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **LinkedIn**: [My Profile](https://www.linkedin.com/in/joshua-ganschow)  
 - **Email**: [ganschowjosh@gmail.com](mailto:ganschowjosh@gmail.com)  
