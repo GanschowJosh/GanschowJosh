@@ -16,6 +16,7 @@ Explore some of my notable projects here:
 
 - **[Steiner Triple Systems Research](https://github.com/GanschowJosh/Steiner-Triple-Systems-Research)**: Combinatorics/Graph Theory research into the structure and properties of Steiner Triple Systems.  
 - **[Prime Labeling Research](https://github.com/GanschowJosh/PrimeGridLabeling)**: Graph Theory research into prime labeling of graphs.
+- **[Latin Square Tools](https://github.com/GanschowJosh/LatinSquareTools)**: Tools I've developed for helping me work with Latin Squares while researching them.
 - **[Portfolio Website](https://github.com/GanschowJosh/jgansc.how)**: Personal portfolio website, showcasing projects and mathematical tools.
 
 For more, check out my [repositories](https://github.com/GanschowJosh?tab=repositories).
